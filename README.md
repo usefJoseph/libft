@@ -1,0 +1,2 @@
+# libft
+library c
